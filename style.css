@@ -1,16 +1,30 @@
 body {
 	font-family: "メイリオ";
-	background: #222222;
-	color: white;
+	background: #faf8e1;
+	color: black;
 }
 
 header {
 	text-align: center;
-	border: 2px solid white;
-	border-radius: 4px;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin: auto;
+	width: 30em;
 }
 
+h1 {
+	text-align: center;
+}
+
+img:not(.banner){
+	display: block;
+	margin: auto;
+}
 
 a {
 	color: #5555ff;
+}
+
+.banner {
+	margin: 1em;
 }
