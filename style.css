@@ -21,6 +21,10 @@ body {
 	justify-content: center;
 }
 
+.main {
+	margin: 3em;
+}
+
 .main h1 {
 	text-align: center;
 }
